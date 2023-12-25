@@ -260,7 +260,7 @@ h1, h2, h3
 				font-size: 80px;
 				line-height: 80px;
 				font-weight: 300;
-				color: #FFF;
+				color: darkgray;
 			}
 
 			#countdown #countdowncont ul#countscript li p
@@ -275,12 +275,12 @@ h1, h2, h3
 		
 #maincont
 {
-	color: #FFF;
+	color: darkgary;
 }
 
 	#maincont a
 	{
-		color: #FFF;
+		color: darkgary;
 		opacity: 0.6;
 	}
 	
